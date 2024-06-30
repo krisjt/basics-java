@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="seller:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/seller_jar</output-path>
+    <root id="archive" name="seller.jar">
+      <element id="module-output" name="seller" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20231013/json-20231013.jar" path-in-jar="/" />
+      <element id="module-source" name="seller" />
+    </root>
+  </artifact>
+</component>

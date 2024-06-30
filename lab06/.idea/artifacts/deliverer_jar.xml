@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="deliverer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/deliverer_jar</output-path>
+    <root id="archive" name="deliverer.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/keeper/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="deliverer" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20231013/json-20231013.jar" path-in-jar="/" />
+      <element id="module-source" name="deliverer" />
+    </root>
+  </artifact>
+</component>
